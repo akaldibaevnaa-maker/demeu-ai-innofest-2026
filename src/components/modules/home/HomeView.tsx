@@ -235,7 +235,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
           <div className="relative shrink-0 w-full sm:w-80 lg:w-96">
             <div className="relative rounded-2xl overflow-hidden border border-indigo-200/70 shadow-lg bg-white group card-hover-effect">
               <img 
-                src="/demeu_hero_art.jpg" 
+                src="./demeu_hero_art.jpg" 
                 alt="DEMEU AI Assistant" 
                 className="w-full h-auto object-cover transform transition duration-500 group-hover:scale-105"
                 onError={(e) => {
