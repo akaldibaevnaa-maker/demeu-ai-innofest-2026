@@ -4,6 +4,9 @@
 > **Бағыты:** Жасанды Интеллект & Әлеуметтік Технологиялар (Social Impact, EdTech & AI)  
 > **Слоган:** *«Әр оқушының сенімді серігі: 100% Анонимді психологиялық қолдау, мектепішілік белсенділік және сапалы ҰБТ білімі»*
 
+🌐 **Онлайн Демо (Live Demo):** [https://akaldibaevnaa-maker.github.io/demeu-ai-innofest-2026/](https://akaldibaevnaa-maker.github.io/demeu-ai-innofest-2026/)  
+📁 **GitHub Репозиторий:** [https://github.com/akaldibaevnaa-maker/demeu-ai-innofest-2026](https://github.com/akaldibaevnaa-maker/demeu-ai-innofest-2026)
+
 ---
 
 ## 📌 Жобаның Өзектілігі мен Әлеуметтік Маңызы
